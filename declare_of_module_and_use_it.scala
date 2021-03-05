@@ -1,4 +1,4 @@
-//模块的申明与调用
+//妯″潡鐨勭敵鏄庝笌璋冪敤
 package first
 
 import chisel3._
